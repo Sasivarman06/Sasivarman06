@@ -4,7 +4,7 @@
 At the intersection of biology and data science, I am passionate about transforming complex biological questions into actionable insights through computational analysis. I am committed to advancing research through data-driven solutions in genomics and molecular biology.
 
 ## 🛠️ Skills
-- 🧬 **Bioinformatics tools:** DESeq2, Hisat2, Bowtie2, fastp, featureCounts
+- 🧬 **Bioinformatics tools:**  GATK, kraken2, prokka, samtools, DESeq2, Hisat2, Bowtie2, fastp, featureCounts
 - 💻 **Programming and database:** Python, R, PERL, MySQL
 - ⚙️ **Development tools:** Git, Docker, Nextflow
 - 🖥️ **Operating Systems & Environments:** Linux, Conda
