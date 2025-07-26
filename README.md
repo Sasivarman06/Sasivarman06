@@ -23,4 +23,4 @@ At the intersection of biology and data science, I am passionate about transform
 
 ## 📫 Contact
 - ✉️ Email: sasivarman06@gmail.com
-- 🔗 LinkedIn: [Sasivarman's LinkedIn](https://www.linkedin.com/in/sasivarman-selvam-086491204)
+- 🔗 LinkedIn: [LinkedIn](https://www.linkedin.com/in/sasivarman-selvam-086491204)
