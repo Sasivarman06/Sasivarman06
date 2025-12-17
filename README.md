@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Sasivarman Selvam
+# 👋 Hi, I’m Sasivarman
 
 Bioinformatics professional with a strong interest in genomics, NGS data analysis, and reproducible pipeline development. I enjoy building and testing workflows that turn sequencing data into meaningful biological insights.
 
@@ -16,8 +16,8 @@ Bioinformatics professional with a strong interest in genomics, NGS data analysi
 - **Analysis:** Variant annotation, filtering, basic visualization  
 
 ## 📄 Publication
-- *Identification of miRNA–mRNA Co-expression by Network Analysis in Dengue Virus Infection*  
-  VirusDisease, Springer (2025)
+- Selvam, S., et al. (2025). *Identification of miRNA–mRNA Co-expression by Network Analysis in Dengue Virus Infection*.  
+  **VirusDisease**, Springer. https://doi.org/10.1007/s13337-025-00915-z
 
 ## 🚀 Interests
 - AI in genomics  
