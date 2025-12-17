@@ -1,21 +1,23 @@
-# 👨‍🔬 Sasivarman Selvam
+👋 Hi, I’m Sasivarman Selvam
 
-## 🧬 About Me
-At the intersection of biology and data science, I am passionate about transforming complex biological questions into actionable insights through computational analysis. I am committed to advancing research through data-driven solutions in genomics and molecular biology.
+I’m a Junior Bioinformatician working on genomics data analysis and pipeline development. My work mainly focuses on building, testing, and maintaining reproducible NGS workflows for WGS/WES data, with experience in rare disease analysis and public genomics datasets.
 
-## 🛠️ Skills
-- 🧬 **Bioinformatics tools:**  GATK, kraken2, prokka, samtools, DESeq2, Hisat2, Bowtie2, fastp, featureCounts
-- 💻 **Programming and database:** Python, R, PERL, MySQL
-- ⚙️ **Development tools:** Git, Docker, Nextflow
-- 🖥️ **Operating Systems & Environments:** Linux, Conda
+🧬 What I work on
+- NGS data processing (QC, alignment, variant calling, annotation)
+- Rare disease WGS/WES variant analysis
+- Workflow automation using Snakemake and Nextflow
+- Testing pipelines on public datasets (including pediatric trio data)
 
-## 📂 Projects
+🛠️ Tools & Skills
+- **Genomics:** GATK, DeepVariant, BWA, Samtools, bcftools, VEP, SnpEff  
+- **Workflows:** Snakemake, Nextflow, Conda, Docker  
+- **Programming:** Python, R, Bash  
+- **Other:** Git/GitHub, Linux, basic data visualization
 
-### 1. 🧪 Integrated Analysis of miRNA-mRNA Co-Expression network in Dengue Virus Infection
-- **Description**: A project analyzing mRNA-miRNA correlation in DENV samples using R and Python.
-- **Tools**: Hisat2, Bowtie2, DESeq2, ggplot2, Python pandas, matplotlib
-- **[Repository Link](https://github.com/Sasivarman06/Project/tree/5885b5ca69b63789fedbee5122ce5ad26f1cfa36/DENV)**
+📄 Publication
+Selvam, S., et al. (2025). *Identification of miRNA–mRNA Co-expression by Network Analysis in Dengue Virus Infection*.  
+VirusDisease, Springer.  
+https://doi.org/10.1007/s13337-025-00915-z
 
-## 📫 Contact
-- ✉️ Email: sasivarman06@gmail.com
-- 🔗 LinkedIn: [LinkedIn](https://www.linkedin.com/in/sasivarman-selvam-086491204)
+🚀 Interests
+Genomics, rare disease diagnostics, pipeline development, and applying AI methods to genomics and multi-omics data.
