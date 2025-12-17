@@ -13,7 +13,7 @@ I am a bioinformatician working on genomics and NGS data analysis. I have experi
 - **Genomics:** GATK, samtools, bcftools, VEP, DeepVariant  
 - **Workflows:** Snakemake, Nextflow  
 - **Dev & Ops:** Git, Conda, Docker  
-- **Analysis:** Variant annotation, filtering, basic visualization  
+- **Analysis:** Variant annotation, filtering, visualization  
 
 ## 📄 Publication
 - Selvam, S., et al. (2025). *Identification of miRNA–mRNA Co-expression by Network Analysis in Dengue Virus Infection*.  
