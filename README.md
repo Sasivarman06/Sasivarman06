@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Sasivarman
 
-Bioinformatics professional with a strong interest in genomics, NGS data analysis, and reproducible pipeline development. I enjoy building and testing workflows that turn sequencing data into meaningful biological insights.
+I am a bioinformatician working on genomics and NGS data analysis. I have experience developing and testing reproducible pipelines for WGS and WES data. I enjoy solving practical problems that come up during real data analysis and interpretation.
 
 ## 🧬 What I work on
 - WGS/WES variant analysis for rare disease and infectious disease datasets  
