@@ -16,11 +16,6 @@ At the intersection of biology and data science, I am passionate about transform
 - **Tools**: Hisat2, Bowtie2, DESeq2, ggplot2, Python pandas, matplotlib
 - **[Repository Link](https://github.com/Sasivarman06/Project/tree/5885b5ca69b63789fedbee5122ce5ad26f1cfa36/DENV)**
 
-### 2. 🎮 Stone-Paper-Scissors Game Using R
-- **Description**: A fun project where I built an interactive stone-paper-scissors game in R.
-- **Tools**: R (conditional statements, user inputs)
-- **[Repository Link](https://github.com/Sasivarman06/Project/tree/822431775ddf11192deae4c247bab633f7006130/stone-paper-scissor)**
-
 ## 📫 Contact
 - ✉️ Email: sasivarman06@gmail.com
 - 🔗 LinkedIn: [LinkedIn](https://www.linkedin.com/in/sasivarman-selvam-086491204)
